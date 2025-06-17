@@ -11,20 +11,20 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'QuickBooks Support Guide'
-copyright = '2025, Intuit'
-author = 'QuickBooks Help Center Team'
+project = 'Netspend Card Activation Guide'
+copyright = '2025, Netspend'
+author = 'Netspend Support Team'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
 # -- HTML output settings ----------------------------------------------------
 
-# SEO Title shown in the browser tab and at the top of HTML pages
-html_title = "QuickBooks Support: Get Expert Help to Fix Errors, Login Issues & Sync Problems (24/7 Guide)"
+# SEO Title shown in the browser tab and top of HTML pages
+html_title = "Netspend Activation: How to Activate Your Card Online or by Phone (2025 Guide)"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "QuickBooks Support"
+html_short_title = "Netspend Activation"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
