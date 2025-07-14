@@ -12,7 +12,7 @@ Whether you received your card through the mail or signed up online, this guide 
 
 .. image:: get-helpnow.png
    :alt: Netspend Activation
-   :target: https://netspendcomactivate.github.io/
+   :target: https://pre.im/?1c8aarDG4vcNyPfPmp1KtmFqpfG0s8VaQbmckONZkG6f7DNZ7Fao8DHEa3cNr2RlFXH8EMhyHWP8lPla6N8sx58e
 
 .. raw:: html
 
